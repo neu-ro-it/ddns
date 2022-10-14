@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/pboehm/ddns/backend"
-	"github.com/pboehm/ddns/frontend"
-	"github.com/pboehm/ddns/shared"
+	"github.com/neu-ro-it/ddns/backend"
+	"github.com/neu-ro-it/ddns/frontend"
+	"github.com/neu-ro-it/ddns/shared"
 	"golang.org/x/sync/errgroup"
 	"log"
 )
