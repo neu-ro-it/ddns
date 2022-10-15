@@ -1,6 +1,6 @@
 module github.com/neu-ro-it/ddns
 
-go 1.12
+go 1.19
 
 require (
 	github.com/garyburd/redigo v1.6.0
