@@ -1,9 +1,9 @@
 # `ddns` - Dynamic DNS
 
-[![CircleCI](https://img.shields.io/circleci/build/github/pboehm/ddns?style=flat)](https://circleci.com/github/pboehm/ddns)
-[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/pboehm/ddns/latest?logo=Docker)](https://hub.docker.com/r/pboehm/ddns)
+[![CircleCI](https://img.shields.io/circleci/build/github/neu-ro-it/ddns?style=flat)](https://circleci.com/github/neu-ro-it/ddns)
+[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/neu-ro-it/ddns/latest?logo=Docker)](https://hub.docker.com/r/neu-ro-it/ddns)
 [![Docker Pulls](https://img.shields.io/docker/pulls/pboehm/ddns?logo=Docker)](https://hub.docker.com/r/pboehm/ddns)
-[![GitHub](https://img.shields.io/github/license/pboehm/ddns?style=flat)](https://github.com/pboehm/ddns)
+[![GitHub](https://img.shields.io/github/license/neu-ro-it/ddns?style=flat)](https://github.com/neu-ro-it/ddns)
 
 
 A self-hosted Dynamic DNS solution similar to DynDNS or NO-IP based on the
@@ -66,8 +66,8 @@ to be made in a `docker-compose.override.yml` file
 The setup included in this repository contains all the components described above and uses
 [caddy](https://caddyserver.com/) as a web server, because it provides automatic HTTPS using Lets Encrypt.
 
-```
-git clone git@github.com:pboehm/ddns.git
+```sh
+git clone git@github.com:neu-ro-it/ddns.git
 cd ddns/docker
 cp docker-compose.override.yml.sample docker-compose.override.yml
 ```
@@ -82,6 +82,6 @@ Finally execute the following `docker-compose` command, which creates 4 containe
 started automatically after reboot. For updating an existing installation use the same command because it automatically
 rebuilds the containers.
 
-```
+```sh
 docker-compose --project-name ddns up -d --build
 ```
