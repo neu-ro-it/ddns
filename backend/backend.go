@@ -2,7 +2,7 @@ package backend
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/pboehm/ddns/shared"
+	"github.com/neu-ro-it/ddns/shared"
 	"log"
 	"strings"
 )
