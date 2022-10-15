@@ -2,7 +2,7 @@ FROM golang:alpine
 
 RUN apk add --no-cache git
 
-WORKDIR /go/src/github.com/pboehm/ddns
+WORKDIR /go/src/github.com/neu-ro-it/ddns
 COPY . .
 
 RUN GO111MODULE=on go get -d -v ./...
