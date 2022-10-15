@@ -1,4 +1,4 @@
-module github.com/pboehm/ddns
+module github.com/neu-ro-it/ddns
 
 go 1.12
 
