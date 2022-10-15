@@ -37,6 +37,8 @@ github.com/modern-go/reflect2 v1.0.1 h1:9f412s+6RmYXLWZSEzVVgPGK7C2PphHj5RJrvfx9
 github.com/modern-go/reflect2 v1.0.1/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/neu-ro-it/ddns v0.0.0-20211127154755-82a5891ba327 h1:GNGI087tVIBjo4kx6mCs8DNlhC/VbcQRm4K6NfRPqNM=
 github.com/neu-ro-it/ddns v0.0.0-20211127154755-82a5891ba327/go.mod h1:OpjgOLi6fgiHVJJm1tVMEvpS6b4LZmcWbwj29ei4RkI=
+github.com/neu-ro-it/ddns v0.0.0-20211127154755-82a5891ba327 h1:GNGI087tVIBjo4kx6mCs8DNlhC/VbcQRm4K6NfRPqNM=
+github.com/neu-ro-it/ddns v0.0.0-20211127154755-82a5891ba327/go.mod h1:OpjgOLi6fgiHVJJm1tVMEvpS6b4LZmcWbwj29ei4RkI=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
