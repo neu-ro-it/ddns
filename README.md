@@ -2,7 +2,7 @@
 
 [![CircleCI](https://img.shields.io/circleci/build/github/neu-ro-it/ddns?style=flat)](https://circleci.com/github/neu-ro-it/ddns)
 [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/neu-ro-it/ddns/latest?logo=Docker)](https://hub.docker.com/r/neu-ro-it/ddns)
-[![Docker Pulls](https://img.shields.io/docker/pulls/pboehm/ddns?logo=Docker)](https://hub.docker.com/r/pboehm/ddns)
+[![Docker Pulls](https://img.shields.io/docker/pulls/neu-ro-it/ddns?logo=Docker)](https://hub.docker.com/r/neu-ro-it/ddns)
 [![GitHub](https://img.shields.io/github/license/neu-ro-it/ddns?style=flat)](https://github.com/neu-ro-it/ddns)
 
 
