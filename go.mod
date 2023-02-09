@@ -3,8 +3,8 @@ module github.com/neu-ro-it/ddns
 go 1.19
 
 require (
-	github.com/gin-gonic/gin v1.7.0
-	github.com/gomodule/redigo v1.8.9
+	github.com/garyburd/redigo v1.6.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/stretchr/testify v1.8.0
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
 )
